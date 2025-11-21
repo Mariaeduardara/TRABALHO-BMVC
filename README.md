@@ -27,7 +27,5 @@ Tudo funcionando direto no navegador, com templates `.tpl`.
 | 🧱 HTML + TPL | Templates |
 | 📁 MVC | Organização do projeto |
 
----
 
-## 📂 Estrutura do Projeto
 
